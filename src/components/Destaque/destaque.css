@@ -1,0 +1,18 @@
+.conteudo-principal {
+    font-family: 'Raleway', sans-serif;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    justify-items: center;
+    align-items: center;
+    margin: 5rem 4rem;
+    text-align: center;
+}
+
+.conteudo-principal h1 {
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+}
+
+.sorveteria {
+    padding-left: 8rem;
+}

@@ -1,0 +1,38 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    height: 70px;
+    background-color: #362013;
+}
+
+.logo {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: 'Shrikhand', cursive;
+    color: #f75eb2;
+}
+
+header div {
+    width: 35rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navegacao {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #e6de47;
+    font-size: 0.9em;
+    font-family: 'Raleway', sans-serif;
+}
+
+.navegacao:hover{
+    text-decoration: underline;
+    color: #5164d6;
+}
+

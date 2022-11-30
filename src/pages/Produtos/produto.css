@@ -1,0 +1,26 @@
+.card {
+    border: 1px solid #362013;
+    border-radius: 5px;
+    background-color: #4A8FE8;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    margin: 5rem 0 5rem 5rem;
+    width: 22%;
+    word-wrap: break-word;
+}
+
+.card:hover {
+    transform: scale(1.08);
+    transition-duration: .2s;
+}
+
+img {
+    display: inline-block;
+    width: 100%;
+}
+
+h2 {
+    margin: .1rem 0;
+    text-transform: uppercase;
+}
+

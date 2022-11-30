@@ -1,0 +1,13 @@
+.rodape {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 30vh;
+    background-color: #362013;
+    margin-top: 7rem;
+}
+
+.rodape h4 {
+    color: #e6de47;
+    font-family: 'Raleway', sans-serif;
+}
